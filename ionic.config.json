@@ -1,0 +1,8 @@
+{
+  "name": "Mo Babysitter App",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "15fc40c7"
+}
